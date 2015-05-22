@@ -1,0 +1,34 @@
+Para poder utilizar la aplicación se debe introducir los datos necesarios en el archivo config.py se lanza desde consola en la ruta PC/__init__.py mediante el comando python __init__.py
+
+Pasos de instalacion:
+
+sudo apt-get install python-pip
+
+sudo pip install reportlab --upgrade
+
+cd ./bibliotecas/reportlab
+
+sudo python setup.py install
+
+cd ..
+
+cd html5lib
+
+sudo python setup.py install
+
+cd ..
+
+cd xhtml2pdf
+
+sudo python setup.py install
+
+cd ..
+cd numpy-1.9.2
+
+sudo python setup.py install
+
+cd ..
+cd matplotlib-1.4.3
+
+sudo python setup.py install
+
